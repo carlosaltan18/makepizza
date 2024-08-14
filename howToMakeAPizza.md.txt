@@ -1,9 +1,25 @@
-# Pasos para Hacer una Pizza 🍕
+# Cómo hacer una pizza
 
-1. **Prepara la masa:** Mezcla harina, agua, sal, aceite, y levadura. Amasa y deja reposar hasta que crezca.
-2. **Precalienta el horno:** A 250°C.
-3. **Extiende la masa:** Hazla delgada o gruesa, según prefieras.
-4. **Añade la salsa:** Extiende salsa de tomate sobre la masa.
-5. **Agrega los ingredientes:** Coloca tus toppings favoritos.
-6. **Hornea:** Durante 10-15 minutos, hasta que esté dorada.
-7. **Sirve y disfruta:** Corta la pizza y comela.
+## Ingredientes
+- Masa para pizza
+- Salsa de tomate
+- Queso mozzarella
+- Toppings (pepperoni, champiñones, pimientos, etc.)
+- Aceite de oliva
+
+## Instrucciones
+
+1. **Precalentar el horno**
+   - Precalienta el horno a 220°C (425°F) para que esté listo cuando pongas la pizza a cocinar.
+
+2. **Preparar la masa**
+   - Estira la masa sobre una superficie enharinada hasta que tenga el grosor deseado. Colócala en una bandeja para hornear o piedra para pizza.
+
+3. **Añadir la salsa**
+   - Unta una capa uniforme de salsa de tomate sobre la masa, dejando un borde pequeño alrededor.
+
+4. **Agregar el queso y toppings**
+   - Espolvorea una capa generosa de queso mozzarella sobre la salsa. Añade tus toppings favoritos encima del queso.
+
+5. **Hornear la pizza**
+   - Coloca la pizza en el horno precalentado y hornea durante 12-15 minutos o hasta que la masa esté dorada y el queso burbujeante. Retira del horno, corta en porciones y disfruta.
